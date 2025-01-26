@@ -1,5 +1,5 @@
 # Hello, I'm Matias
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/matias-alvarez-515545349/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity professional with a profound interest in Security Architecture and Engineering, driven by the dynamic interplay between technology and security.
 ## Objective
