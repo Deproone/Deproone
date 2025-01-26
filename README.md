@@ -7,7 +7,7 @@ I am an aspiring cybersecurity professional with a profound interest in Security
  I am a motivated bilingual cybersecurity enthusiast, fluent in English and Spanish, with a unique blend of experience in risk management, fraud prevention, and process optimization, complemented by strong programming skills in Python. My background in cryptocurrency trading has honed my analytical thinking, adaptability to fast-changing environments, and ability to develop data-driven strategies for risk assessment and operational efficiency. I have a proven track record of solving complex problems, developing algorithms, and leveraging transferable skills such as social engineering detection and data analysis for cybersecurity applications. Passionate about safeguarding digital assets, I am actively pursuing Security+ and HTB Certified Penetration Testing Specialist certifications, gaining hands-on experience in cybersecurity labs. Committed to ethical integrity and technological advancement, I aim to contribute my skills to the design and implementation of robust security architectures that proactively address cyber threats and ensure compliance with legal standards. I am eager to collaborate with teams to build secure systems that foster trust and resilience in the digital landscape.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +19,7 @@ I am an aspiring cybersecurity professional with a profound interest in Security
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -42,7 +42,7 @@ I am an aspiring cybersecurity professional with a profound interest in Security
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
