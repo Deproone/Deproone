@@ -4,7 +4,7 @@
 I am an aspiring cybersecurity professional with a profound interest in Security Architecture and Engineering, driven by the dynamic interplay between technology and security.
 ## Objective
 
-Motivated bilingual cybersecurity enthusiast, fluent in English and Spanish, with a strong foundation in risk management, fraud prevention, and programming, seeking to leverage my analytical skills and hands-on experience in cybersecurity to design and implement secure systems. With a background in cryptocurrency trading and a commitment to ethical integrity, I aim to apply my expertise in data analysis, social engineering detection, and process optimization to proactively address cyber threats and ensure compliance with legal standards. Actively pursuing Security+ and HTB Certified Penetration Testing Specialist certifications, I am eager to collaborate with dynamic teams to contribute to the advancement of secure and resilient digital infrastructures.
+Bilingual cybersecurity enthusiast with expertise in risk management, fraud prevention, and programming. Skilled in data analysis, social engineering detection, and process optimization to combat cyber threats. Pursuing Security+ and HTB CPTS certifications, eager to contribute to secure digital infrastructures through analytical thinking and ethical cybersecurity practices.
 
 ## Skills
 
@@ -12,11 +12,7 @@ Motivated bilingual cybersecurity enthusiast, fluent in English and Spanish, wit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Log Analysis & SIEM Monitoring          | <a href="https://github.com/Deproone/Elastic-Siem-Lab">Siem Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
